@@ -1,10 +1,3 @@
-//
-//  OpenCVWrapper.m
-//  opencvCamera
-//
-//  Created by 藤井孝治 on 2017/12/06.
-//  Copyright © 2017年 gadget-tf. All rights reserved.
-//
 
 #import <opencv2/opencv.hpp>
 #import <opencv2/imgcodecs/ios.h>
